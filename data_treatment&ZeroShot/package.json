@@ -1,0 +1,22 @@
+{
+  "name": "tcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.28.0",
+    "@google/generative-ai": "^0.24.1",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^17.2.3",
+    "json2csv": "^6.0.0-alpha.2",
+    "openai": "^6.7.0",
+    "papaparse": "^5.5.3"
+  },
+  "type": "module"
+}
