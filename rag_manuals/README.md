@@ -1,0 +1,1 @@
+Mesma coisa que os outros, configurar o banco de dados e o arquivo de configuração e rodar o script.
