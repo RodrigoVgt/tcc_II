@@ -1,0 +1,1 @@
+Mesma coisa que os outros, configurar o banco de dados, e configurações gerais em config.yaml
